@@ -2,7 +2,7 @@
 
 ## Admit When You Don't Know Something 
 
-When you’re stumped, try and compare it to something you do know (e.g. “So Tree Maps are like Hash Maps, let me talk about hash maps...”
+When you’re stumped, try and compare it to something you do know (e.g. “So Tree Maps are like Hash Maps, let me talk about hash maps...”).
 
 
 If you come across an algorithm you don’t know and you are asked to implement it, ask your interviewer to explain it, then do your best to directly transfer what they said into real code. Don’t do any optimizations the first time around.
